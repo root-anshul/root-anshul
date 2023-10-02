@@ -1,7 +1,7 @@
 ![logo](https://github.com/root-anshul/root-anshul/blob/main/banner.jpeg)
 
 <h1 align="center">Hi 🙋, I'm Anshul Tanwar</h1>
-<h3 align="center">I’m currently working on IOS Development and Mobile Development</h3>
+<h3 align="center">I’m currently working on IOS Development </h3>
 
 <img align="right" alt="Coding gif" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
