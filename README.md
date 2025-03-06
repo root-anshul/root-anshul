@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **backend**
 
-- 💬 Ask me about **Web Development **
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/anshultanwar/**
 
