@@ -1,13 +1,13 @@
 ![logo](https://github.com/root-anshul/root-anshul/blob/main/banner.jpeg)
 
 <h1 align="center">Hi 🙋, I'm Anshul Tanwar</h1>
-<h3 align="center">I’m currently working on IOS Development </h3>
+<h3 align="center"> </h3>
 
 <img align="right" alt="Coding gif" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **Swift || SwiftUI**
 
-- 💬 Ask me about **IOS Development || Swift || UIKit**
+- 💬 Ask me about **Software Developer**
 
 - 📫 How to reach me **https://www.linkedin.com/in/anshultanwar/**
 
