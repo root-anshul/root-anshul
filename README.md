@@ -5,9 +5,8 @@
 
 <img align="right" alt="Coding gif" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **backend**
-
-- <!--💬 Ask me about **Web Development**-->
+- 🌱 Building a Career in Data Science: Where Data Meets Decision-Making
+<!--💬 Ask me about **Web Development**-->
 
 - 📫 How to reach me **https://www.linkedin.com/in/anshultanwar/**
 
