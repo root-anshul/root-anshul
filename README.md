@@ -1,4 +1,4 @@
-![logo](https://github.com/root-anshul/root-anshul/blob/main/banner.jpeg)
+![logo](https://github.com/root-anshul/root-anshul/blob/main/banners.jpeg)
 
 <h1 align="center">Hi 🙋, I'm Anshul Tanwar</h1>
 <h3 align="center"> </h3>
